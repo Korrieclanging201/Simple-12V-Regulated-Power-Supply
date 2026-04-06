@@ -9,7 +9,7 @@ A reliable and high-safety 12V DC power supply designed to convert AC input (fro
 - **Thermal Management:** Dedicated M3 mounting hole for a TO-220 heatsink.
 
 ## 📂 Files
-- **/KiCad-Project**: Schematic (`.kicad_sch`) and PCB layout (`.kicad_pcb`) files.
+- **/Hardware**: Schematic (`.kicad_sch`) and PCB layout (`.kicad_pcb`) files.
 - **/Fabrication**: Production-ready Gerber and Drill files (RS-274X format).
   - **Note:** Also includes a **Mirrored PDF** for DIY toner transfer (home-made) production.
 - **/Images**: 3D renders, schematic, and PCB layout captures.
